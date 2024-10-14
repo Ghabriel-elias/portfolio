@@ -1,0 +1,18 @@
+{
+    "position": "Frontend Engineer",
+    "subtitle": "I build pixel-perfect, engaging, and accessible digital experiences.",
+    "options.about": "ABOUT",
+    "options.experience": "EXPERIENCE",
+    "options.projects": "PROJECTS",
+    "options.contact": "CONTACT",
+    "skills": "Skills",
+    "languages.pt": "PT",
+    "languages.en": "EN",
+    "contact.title": "Think simple but make a difference",
+    "contact.subtitle": "Send a massage",
+    "text.aboutMe": "I started my journey in programming in 2020, but in 2022 I decided to focus on front-end development. Since then, I have worked with small and medium-sized businesses, helping them create modern and efficient digital solutions. Today, I am taking a new step in my career as the founder of a consulting company, where I can apply my experience and passion to help even more businesses achieve their technological goals.",
+    "text.aboutSkill": "I am a front-end developer with over 2 years of experience, specializing in building websites with React and Next.js, mobile apps with React Native, and desktop applications with Electron. With a meticulous focus on user experience, I deliver solutions that are both intuitive and visually appealing. I strive for fast and efficient development while maintaining quality and attention to detail in every project, ensuring client satisfaction and product success.",
+    "projects.description.watchlist": "is a non-profit application that helps you discover movies and TV shows. It provides detailed information such as where to watch, cast, and synopsis. You can also save your favorite titles to watch later.",
+    "projects.description.spotter": "Spotter Exercise is a web application that allows you to manage and visualize data from a spreadsheet containing information about transportation companies in the United States. The application displays the data in a highly customizable table, supporting various filters, search options, and sorting capabilities. Additionally, it features a chart that provides insights into companies that have discontinued service.",
+    "projects.description.pomoFocus": "is a non-profit application designed to apply knowledge and help with productivity. In it, you can use standard Pomodoro timers and also customize the timers according to your needs."
+}

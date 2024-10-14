@@ -1,0 +1,18 @@
+{
+    "position": "Engenheiro Front-end",
+    "subtitle": "Eu construo experiências digitais perfeitas, envolventes e acessíveis.",
+    "options.about": "SOBRE",
+    "options.experience": "EXPERIÊNCIA",
+    "options.projects": "PROJETOS",
+    "options.contact": "CONTATO",
+    "skills": "Habilidades",
+    "languages.pt": "PT",
+    "languages.en": "EN",
+    "contact.title": "Pense simples, mas faça a diferença",
+    "contact.subtitle": "Envie uma mensagem",
+    "text.aboutMe": "Iniciei minha jornada na programação em 2020, mas foi em 2022 que decidi direcionar meu foco para o desenvolvimento front-end. Desde então, trabalhei com empresas de pequeno e médio porte, ajudando-as a criar soluções digitais modernas e eficientes. Hoje, estou dando um novo passo na minha carreira como fundador de uma empresa de consultoria, onde posso aplicar minha experiência e paixão para ajudar ainda mais negócios a alcançarem seus objetivos tecnológicos.",
+    "text.aboutSkill": "Sou desenvolvedor front-end com mais de 2 anos de experiência, especializado na criação de sites com React e Next.js, aplicativos mobile com React Native e aplicativos desktop com Electron. Com um foco minucioso na experiência do usuário, entrego soluções que são intuitivas e visualmente atraentes. Prezo por um trabalho rápido e eficiente, mantendo a qualidade e a atenção aos detalhes em cada projeto, garantindo a satisfação do cliente e o sucesso do produto.",
+    "projects.description.watchlist": "WatchList é um aplicativo sem fins lucrativos que ajuda você a descobrir filmes e séries de TV. Ele fornece informações detalhadas, como onde assistir, elenco e sinopse. Você também pode salvar seus títulos favoritos para assistir mais tarde.",
+    "projects.description.spotter": "Spotter Exercise é uma aplicação web que permite gerenciar e visualizar dados de uma planilha contendo informações sobre empresas de transporte nos Estados Unidos. A aplicação exibe os dados em uma tabela altamente personalizável, suportando vários filtros, opções de pesquisa e funcionalidades de ordenação. Além disso, possui um gráfico que fornece insights sobre empresas que descontinuaram seus serviços.",
+    "projects.description.pomoFocus": "Pomo Focus é um aplicativo sem fins lucrativos desenvolvido para aplicar conhecimento e ajudar na produtividade. Nele, você pode usar temporizadores Pomodoro padrão e também personalizar os temporizadores de acordo com suas necessidades."
+}
